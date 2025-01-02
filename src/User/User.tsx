@@ -4,9 +4,7 @@ export const User = () => {
 	return (
 		<div>
 			<h2>User</h2>
-			<h2>newBranch commit 2</h2>
-			<h2>newBranch commit 2</h2>
-			<h2>newBranch commit 2</h2>
+			<h2>deleted 2 branches</h2>
 		</div>
 	);
 };
